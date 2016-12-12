@@ -1,0 +1,31 @@
+date: December 7, 2016
+
+meeting_type: TA
+attendance: [<shokoors>,<jaeheunk>,<saisaokh> ,<mes59>, <alikafag>,]
+
+absent: [<adithyan> ]
+
+excused_absences: []
+
+task_progress: 
+[ # All group members must be included here even if they haven't made any progress since the last meeting
+ 
+ {ubit: <shokoors>, progress: N/A},
+ 
+ {ubit: <jaeheunk>, progress:	implemented SSL.},
+ 
+ {ubit: <adithyan>, progress: N/A},
+  
+{ubit: <alikafag>, progress: Wrote the description for app deployment},
+  
+{ubit: <saisaokh>, progress: N/A},
+  
+{ubit: <mes59>, progress: N/A},
+  ]
+
+issues: [ None for now ]
+
+Notes:  | 
+Deployment.
+Planning to use amazon or website.
+Final Video.

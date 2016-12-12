@@ -1,0 +1,29 @@
+date: December 6, 2016
+
+meeting_type: group
+attendance: [<shokoors>, <alikafag>,<mes59>,<jaeheunk>,<adithyan>, <saisaokh>]
+
+absent: [ ]
+
+excused_absences: []
+
+task_progress: 
+[ # All group members must be included here even if they haven't made any progress since the last meeting
+ 
+ {ubit: <shokoors>, progress: Solved errors in code that were causing app to crash, helped in deployment},
+ 
+ {ubit: <jaeheunk>, progress: set up the page for deployment, Solved errors in code that were causing app to crash},
+ 
+ {ubit: <adithyan>, progress: Solved errors in code that were causing app to crash,helped in deployment},
+  
+{ubit: <alikafag>, progress: Wrote the licensing for deployment,Solved errors in code that were causing app to crash},
+  
+{ubit: <saisaokh>, progress: Solved errors in code that were causing app to crash, helped in deployment},
+  
+{ubit: <mes59>, progress:  Solved errors in code that were causing app to crash, helped in deployment}
+ ]
+
+issues: []
+
+Notes:  | 
+

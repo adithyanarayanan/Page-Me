@@ -1,0 +1,29 @@
+date: December 9, 2016
+
+meeting_type: group
+attendance: [<shokoors>, <alikafag>,<jaeheunk>,<adithyan>, <saisaokh>]
+
+absent: [<mes59> ]
+
+excused_absences: [Exams and HWs fro other classes]
+
+task_progress: 
+[ # All group members must be included here even if they haven't made any progress since the last meeting
+ 
+ {ubit: <shokoors>, progress: Script for  the video},
+ 
+ {ubit: <jaeheunk>, progress: Setup th web page},
+ 
+ {ubit: <adithyan>, progress: Made the web page},
+  
+{ubit: <alikafag>, progress: Made the web page and apk ready for app deployment},
+  
+{ubit: <saisaokh>, progress: Cleared Errors in apk},
+  
+{ubit: <mes59>, progress:  helped in the Deployment}
+ ]
+
+issues: []
+
+Notes:  | 
+

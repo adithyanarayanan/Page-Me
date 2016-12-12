@@ -1,0 +1,37 @@
+date: November 30, 2016
+
+meeting_type: TA
+attendance: [<shokoors>,<jaeheunk>,<saisaokh> ,<mes59>, <alikafag>,<adithyan>,]
+
+absent: [ ]
+
+excused_absences: []
+
+task_progress: 
+[ # All group members must be included here even if they haven't made any progress since the last meeting
+ 
+ {ubit: <shokoors>, progress: N/A},
+ 
+ {ubit: <jaeheunk>, progress:	improvised the server, changed the script },
+ 
+ {ubit: <adithyan>, progress: N/A},
+  
+{ubit: <alikafag>, progress: Changed the UI and added some functionality},
+  
+{ubit: <saisaokh>, progress: N/A},
+  
+{ubit: <mes59>, progress: N/A},
+  ]
+
+issues: [ None for now ]
+
+Notes:  | 
+
+Sprint 5 :
+rubric for presentation
+Project completion: Completed but fix issues that you guys think are necessary.
+Documentation:
+what is this app .targeted audience. how it will benefit 2 paragraphs
+How does it work- image and or video link or written instructions
+Android App and server side category- what language and scripting languages.. back end, if we were to work on this project what would you do
+	

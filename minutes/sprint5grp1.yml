@@ -1,0 +1,29 @@
+date: November 30, 2016
+
+meeting_type: group
+attendance: [<shokoors>, <alikafag>,<mes59>,<jaeheunk>,<adithyan>, <saisaokh>]
+
+absent: [ ]
+
+excused_absences: []
+
+task_progress: 
+[ # All group members must be included here even if they haven't made any progress since the last meeting
+ 
+ {ubit: <shokoors>, progress: Helped create script for  the Presetation},
+ 
+ {ubit: <jaeheunk>, progress: Helped create script for  the Presetation, implemented in the ssl functionality },
+ 
+ {ubit: <adithyan>, progress: Helped create script for  the Presetation},
+  
+{ubit: <alikafag>, progress: Helped create script for  the Presetation, solved the errors that were causing the app to crash},
+  
+{ubit: <saisaokh>, progress: Helped create script for  the Presetation},
+  
+{ubit: <mes59>, progress:  Helped create script for  the Presetation}
+ ]
+
+issues: []
+
+Notes:  | 
+
