@@ -1,17 +1,17 @@
 # PageMe
-* 	Group Members: Adithya Narayanan, Ali Kafagy, Jaeheun Kim, Mitchell Schmidt, Sai Sao Kham, Syed Abdul Shukoor
 *   Project Webpage: https://teampageme.github.io/pager/
 *   Download Link: https://drive.google.com/file/d/0BzbExCHpAf_GbG1ROS1yM05kUEk/view?usp=sharing
-* 	License: MIT License.
+* 	License: MIT License
+
 
 #	Description
 
-### What this app is?
-We are making an android app that emulates a pager. 
+### What this app is:
+An android app that emulates a pager. 
 ### 	Who the target audience is?
-we designed the app in mind that our main audience would be those who grew up in the late 1900’s who have used a pager. 
+We designed the app in mind that our main audience would be those who grew up in the late 1900’s who have used a pager. 
 We also designed it in mind of those who have no idea what a pager is and through our app can experience it for themselves what using a pager would be like. 
-###	How it benefits users?
+### 	How it benefits users?
 The pager is a device that has been forgotten as cell phones became popular. We decided to bring the pager back through an android app.
 
 # How does this app work?
@@ -30,4 +30,5 @@ Pager settings can be accessed by pressing the gear icon on the main page.
 #	Development
 * 	UI is made with XML in Android Studio
 * 	Backend made with LNMP (Linux + Nginx + Maria DB + PHP 7) stack.
-* 	Future works may include features like (needs to be filled later)
+
+Group Members: Adithya Narayanan, Ali Kafagy, Jaeheun Kim, Mitchell Schmidt, Sai Sao Kham, Syed Abdul Shukoor
